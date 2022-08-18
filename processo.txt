@@ -1,0 +1,9 @@
+O processo inicia quando o cliente solicita por um processo de aposentadoria.
+
+O cliente agenda uma consulta ao ligar para a secretaria, que orientará sobre os documentos que deve trazer. Ele fará copias dos documentos que forem solicitados, esperará até o dia da consulta e trará junto das cópias os documentos originais (CPF, RG, carteira de identidade, certidão de nascimento/casamento, folhas de pagamento).
+
+Ao chegar o dia da consulta, ele irá ao escritório e, orientado pela secretaria, ficará na sala de espera até chegar sua vez conforme outros clientes são atendidos antes dele. Ao chegar sua vez, a advogada solicitará pelos documentos necessários, ele preencherá formulários com seus dados (necessários para o encaminhamento ao processo), explicará sua situação e depois ela estudará seu caso (viabilidade e legislação vigente).
+
+Se tal processo for viável, ela entrará em contato, explicará a situação, esclarecerá dúvidas e, conforme os dois acordarem, formarão um contrato, que irá detalhar as políticas de pagamento de honorários, procurações, e depois solicitará a aposentadoria para o Fórum.
+
+Se o Processo Administrativo for aprovado, o cliente estará aposentado, caso o contrário, poderá ser solicitado por um Processo Processual, no qual será encaminhado para outro advogado, especializado em Direito Cível, e ele defenderá a aposentadoria do cliente e ela será julgada por um juiz. Se for aprovada, o cliente estará aposentado, se não, o processo será arquivado.
