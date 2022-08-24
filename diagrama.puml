@@ -1,0 +1,35 @@
+@startuml Casos de Uso
+(Solicitar\nconsulta)/ as UCC1
+(Trazer\ndocumentos)/ as UCC2
+(Agendar\nconsulta)/ as UCS1
+(Analisar\ndocumentos)/ as UCAP1
+(Encaminhar\npedido de\naposentadoria)/ as UCAP2
+(Solicitar\njulgamento)/ as UCAP3
+(Avaliar\npedido)/ as UCCEAB1
+(Julgar\no caso)/ as UCJ1
+(Defender\ncliente)/ as UCAPR1
+
+actor :Cliente: as A1
+actor :Secretaria: as A2
+actor :Advogada Previdenciaria: as A3
+actor :CEAB: as A4
+actor :Juiz: as A5
+actor :Advogado Processual: as A6
+
+A1 -> UCC1
+A1 -> UCC2
+A2 -> UCS1
+A3 -> UCAP1
+A3 -> UCAP2
+A3 -> UCAP3
+A4 -> UCCEAB1
+A5 -> UCJ1
+A6 -> UCAPR1
+
+UCS1 --|> UCC1
+UCC2 --|> UCAP1
+UCAP2 <<extend>> --|> UCCEAB1
+UCCEAB1 --|> UCAP3
+UCJ1 --|> UCAP3
+UCAPR1 --|> UCAP3
+@enduml
