@@ -1,0 +1,20 @@
+* Criar um menu de cadastros de clientes, sendo inseridas as validações de campo, questões do próprio CRUD, no quesito se estão fazendo as operações certas
+* Criar telas
+* Guardar dados
+* Criar Testes
+  * Testes que devem ser bem efetuados
+    - Quando a informação está completa e VÁLIDA
+  * Quando o Teste deve falhar:
+    - Quando as informações estiverem erradas, ou seja, não estão em formato padrão ou incompletas, e por sua vez INVÁLIDAS.
+
+Links: 
+  https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fezdevs.com.br%2Finiciando-com-tdd-e-python-3%2F&data=05%7C01%7C%7C2cb2227e8e3545ad783808db03c3ab6b%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C638107911145077711%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=VyjJxM7%2BeUxrvkyqINRLAutXH2kDU4AU6W%2FYChJgDeM%3D&reserved=0
+
+  https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fpythonclub.com.br%2Ftdd-com-python-e-flask.html&data=05%7C01%7C%7C2cb2227e8e3545ad783808db03c3ab6b%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C638107911145077711%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=JLXejCHLMEPMD9eRIAusulAl4JPlYPhxcFEqDe8W%2BqM%3D&reserved=0
+
+  https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fs3-sa-east-1.amazonaws.com%2Fthedevconf%2Fpresentations%2FTDC2019FLP%2Fpython%2FCXF-9224_2019-04-27T024843_Ferramentas%2Be%2BPra%25CC%2581ticas%2Bde%2BTDD%2Bem%2BPython&data=05%7C01%7C%7C2cb2227e8e3545ad783808db03c3ab6b%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C638107911145077711%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=W2XzePC3KdFhqIGY%2FY4gYv8dCLxRbxhwm0GZjwm1xX4%3D&reserved=0+(1).pdf
+
+  https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.calculadorafacil.com.br%2Fcomputacao%2Fvalidar-cpf&data=05%7C01%7C%7C2cb2227e8e3545ad783808db03c3ab6b%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C638107911145077711%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=f6aCOncBvrDeIswZf8M9ksZFGIC8xC08xGDLYZLLiP4%3D&reserved=0
+  (Os primeiros oito dígitos, ABCDEFGH, formam o número-base definido pela Receita Federal no momento da inscrição. O nono dígito, I, define a Região Fiscal responsável 
+  pela inscrição. O penúltimo, J, é o dígito verificador dos nove primeiros. O último, K, é o dígito verificador dos noves anteriores a ele - Mensagem explicando o calculo
+  feito neste algoritmo: https://github.com/luistorres109/Topicos-Integradre/blob/main/teste_cpf.py)
